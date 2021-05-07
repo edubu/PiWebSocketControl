@@ -1,0 +1,9 @@
+.status-bar {
+    list-style-type: none;
+    
+}
+
+Button {
+    color: white;
+    background-color: red;
+}
